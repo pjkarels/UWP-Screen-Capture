@@ -10,6 +10,6 @@
 
     <StackPanel Orientation="Vertical">
         <Button Tapped="Button_Tapped" Content="Start Capturing Screen" />
-        <Button Click="ScreenshotButton_Click" Content="Screenshot" />
+        <Button Click="ScreenshotButton_Click" Content="Save Screenshot" />
     </StackPanel>
 </Page>
